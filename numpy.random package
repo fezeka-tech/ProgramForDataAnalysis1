@@ -12,11 +12,13 @@ It is a Python library that is efficient in and cleverly overcomes the problem o
 
 
 
+"While a Python list can contain different data types within a single list, all of the elements in a NumPy array should be homogeneous."
 
 
-
-
-
+1. Explain the overall purpose of the package.
+2. Explain the use of simple random data and Permurtations functions
+3. Explain the use and purpose of at least five “Distributions” functions.
+4. Explain the use of seeds in generating pseudorandom numbers.
 
 
 
